@@ -20,8 +20,6 @@ Para rodar o projeto, você precisará ter o seguinte software instalado:
 
 - **Java JDK** (versão 8 ou superior)
 - **IDE Eclipse** ou outra IDE de sua preferência.
-- Banco de dados relacional (opcional, para testar os comandos `INSERT`).
-
   
 
 🔧 Instalação
@@ -36,8 +34,8 @@ Para rodar o projeto, você precisará ter o seguinte software instalado:
 🛠️ Construído com
 Ferramentas e bibliotecas utilizadas no projeto:
 
-Java SE - Linguagem de programação
-Eclipse IDE - Ambiente de desenvolvimento
+- Java SE - Linguagem de programação
+- Eclipse IDE - Ambiente de desenvolvimento
 
 
 
@@ -47,4 +45,4 @@ Eclipse IDE - Ambiente de desenvolvimento
 
 
 ✒️ Autores
-Breno Gustavo Rocha de Almeida - Trabalho inicial - Sistema de Soma, Impressão e Leitura de Arquivos.
+- Breno Gustavo Rocha de Almeida - Trabalho inicial - Sistema de Soma, Impressão e Leitura de Arquivos.
